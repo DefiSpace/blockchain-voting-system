@@ -1,0 +1,23 @@
+# Go binary files
+/bin/
+/obj/
+
+# Go-specific
+*.exe
+*.test
+*.out
+*.dll
+*.so
+*.dylib
+
+# IDE or editor specific files
+.idea/
+.vscode/
+*.swp
+
+# MacOS Finder files
+.DS_Store
+
+# Logs and other runtime files
+*.log
+*.tmp
