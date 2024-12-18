@@ -26,5 +26,5 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blockchain-voting-system.git
+   git clone https://github.com/DefiSpace/blockchain-voting-system.git
    cd blockchain-voting-system
