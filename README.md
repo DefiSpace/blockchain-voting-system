@@ -28,3 +28,8 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/DefiSpace/blockchain-voting-system.git
    cd blockchain-voting-system
+   ```
+2. Run the project
+   ```bash
+   ./scripts/setup.sh
+   ```
